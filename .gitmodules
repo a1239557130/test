@@ -1,0 +1,3 @@
+[submodule "Zygisk-Il2CppDumper"]
+	path = Zygisk-Il2CppDumper
+	url = https://github.com/a1239557130/Zygisk-Il2CppDumper
